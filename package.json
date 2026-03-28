@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@sentry/browser": "^9",
     "@tanstack/react-router": "^1.114.22",
     "clsx": "^2.1.1",
     "react": "^19.0.0",
